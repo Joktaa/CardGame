@@ -1,0 +1,170 @@
+[
+    {
+        "nom": "Chauve-souris",
+        "element": "fire",
+        "monstre": "bat",
+        "size": [
+            210,
+            210
+        ],
+        "cout": 1,
+        "vie": 10,
+        "attaque": 3,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Chauve-souris",
+        "element": "water",
+        "monstre": "bat",
+        "size": [
+            210,
+            210
+        ],
+        "cout": 1,
+        "vie": 10,
+        "attaque": 3,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Chauve-souris",
+        "element": "wind",
+        "monstre": "bat",
+        "size": [
+            210,
+            210
+        ],
+        "cout": 1,
+        "vie": 10,
+        "attaque": 3,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Shroom",
+        "element": "fire",
+        "monstre": "shroom",
+        "size": [
+            250,
+            250
+        ],
+        "cout": 2,
+        "vie": 15,
+        "attaque": 3,
+        "effet": "Piocher",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Shroom",
+        "element": "water",
+        "monstre": "shroom",
+        "size": [
+            250,
+            250
+        ],
+        "cout": 2,
+        "vie": 15,
+        "attaque": 3,
+        "effet": "Piocher",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Shroom",
+        "element": "wind",
+        "monstre": "shroom",
+        "size": [
+            250,
+            250
+        ],
+        "cout": 2,
+        "vie": 15,
+        "attaque": 3,
+        "effet": "Piocher",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Slime",
+        "element": "fire",
+        "monstre": "slime",
+        "size": [
+            340,
+            340
+        ],
+        "cout": 1,
+        "vie": 1,
+        "attaque": 1,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Slime",
+        "element": "water",
+        "monstre": "slime",
+        "size": [
+            340,
+            340
+        ],
+        "cout": 1,
+        "vie": 1,
+        "attaque": 1,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Slime",
+        "element": "wind",
+        "monstre": "slime",
+        "size": [
+            340,
+            340
+        ],
+        "cout": 1,
+        "vie": 1,
+        "attaque": 1,
+        "effet": "Attaquer",
+        "cible": "Une carte"
+    },
+    {
+        "nom": "Dragon",
+        "element": "fire",
+        "monstre": "dragon",
+        "size": [
+            160,
+            160
+        ],
+        "cout": 8,
+        "vie": 30,
+        "attaque": 10,
+        "effet": "Attaquer",
+        "cible": "Toute les carte"
+    },
+    {
+        "nom": "Dragon",
+        "element": "water",
+        "monstre": "dragon",
+        "size": [
+            160,
+            160
+        ],
+        "cout": 8,
+        "vie": 30,
+        "attaque": 10,
+        "effet": "Attaquer",
+        "cible": "Toute les carte"
+    },
+    {
+        "nom": "Dragon",
+        "element": "wind",
+        "monstre": "dragon",
+        "size": [
+            160,
+            160
+        ],
+        "cout": 8,
+        "vie": 30,
+        "attaque": 10,
+        "effet": "Attaquer",
+        "cible": "Toute les carte"
+    }
+]
